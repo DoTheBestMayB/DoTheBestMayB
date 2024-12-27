@@ -13,7 +13,7 @@
 + 내일배움캠프 Android 3기 (2024.02.25 ~ 2024.07.05)
 
 ### 💻 아래 내용을 학습했어요
-+ [아키텍처와 컨벤션을 준수하며 구현하는 방법을 배웠어요](https://github.com/DoTheBestMayB/UpbitAPI/issues?q=is%3Aissue+is%3Aclosed) (2022.04 ~ 2022.05) </br>
++ [아키텍처와 컨벤션을 준수하며 구현하는 방법을 배웠어요](https://github.com/DoTheBestMayB/UpbitAPI/pulls?q=is%3Apr+is%3Aclosed) (2022.04 ~ 2022.05) </br>
 + [Kotlin In Action](https://dodobest.notion.site/Kotlin-In-Action-97bde5492028434a870ba68ae656fd16) (2024.01 ~ 2024.03) </br>
 + [코틀린 코루틴](https://dodobest.notion.site/Kotlin-In-Action-97bde5492028434a870ba68ae656fd16) (2024.04 ~ 2024.05) </br>
 + [Philip - The Android Essentials](https://github.com/DoTheBestMayB/DoRun) (2024.11 ~ ) </br>
