@@ -20,6 +20,7 @@
 + [코틀린 코루틴](https://dodobest.notion.site/03ca03fed5784eacb9888c148e5e9619) (2024.04 ~ 2024.05) </br>
 + [Philip - The Android Essentials](https://github.com/DoTheBestMayB/DoRun) (2024.11 ~ ) </br>
 + [Philip - The Jetpack Compose Masterclass](https://github.com/DoTheBestMayB/ComposeStudy) (2024.12 ~ ) </br>
++ [Philip - Android Internals](https://github.com/DoTheBestMayB/Android-Internals) (2025.04 ~ ) </br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DoTheBestMayb?theme=light&font=Marcellus%20SC&ext=heatmap)
 
