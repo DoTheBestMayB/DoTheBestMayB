@@ -22,6 +22,8 @@
 + [Philip - The Jetpack Compose Masterclass](https://github.com/DoTheBestMayB/ComposeStudy) (2024.12 ~ ) </br>
 + [Philip - Android Internals](https://github.com/DoTheBestMayB/Android-Internals) (2025.04 ~ ) </br>
 
+리트코드 Daily Problem을 매일 풀며 정리하고 있어요. [노션 링크](https://dodobest.notion.site/Leetcode-19d27309f3b78056a0b2dba3d9800796)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DoTheBestMayb?theme=light&font=Marcellus%20SC&ext=heatmap)
 
 <!--
