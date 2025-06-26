@@ -13,7 +13,7 @@
 + [안드로이드 아키텍처 with TDD 2기](https://edu.nextstep.camp/c/QT9zj8KN) (2022.01.11 ~ 2022.03.14)</br>
 + 명지대학교 컴퓨터공학과 학사 (2017.03 ~ 2024.02)</br>
 
-리트코드 Daily Problem을 매일 풀며 정리하고 있어요. [노션 링크](https://dodobest.notion.site/Leetcode-19d27309f3b78056a0b2dba3d9800796)
+리트코드 Daily Problem - [노션 링크](https://dodobest.notion.site/Leetcode-19d27309f3b78056a0b2dba3d9800796)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DoTheBestMayb?theme=light&font=Marcellus%20SC&ext=heatmap)
 
